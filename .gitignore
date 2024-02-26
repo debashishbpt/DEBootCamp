@@ -140,6 +140,7 @@ week_2_data_ingestion/airflow/google_credentials.json
 
 .DS_Store/
 .terraform/
+.my-creds.json
 
 
 week_5_batch_processing/01_code
