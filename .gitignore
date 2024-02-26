@@ -139,6 +139,8 @@ week_1_basics_n_setup/terraform/.terraform
 week_2_data_ingestion/airflow/google_credentials.json
 
 .DS_Store/
+.terraform/
+
 
 week_5_batch_processing/01_code
 week_5_batch_processing/homework/fhvhv
